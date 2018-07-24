@@ -12,7 +12,7 @@
     <groupId>com.typesafe.akka.samples</groupId>
     <artifactId>akka-supervision-java</artifactId>
     <packaging>jar</packaging>
-    <version>empty</version>
+    <version>0.0.1</version>
 
     <dependencies>
         <dependency>
